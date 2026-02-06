@@ -1,0 +1,7 @@
+{
+  "name": "Freetown International Hospital Management System",
+  "description": "A premier medical management suite for Freetown International Hospital, featuring specialized access controls for medical, administrative, and technical staff.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
